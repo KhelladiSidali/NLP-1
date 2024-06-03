@@ -1,0 +1,111 @@
+An international ad hoc Working Group of experts in cancer research met at the International Agency for Research on Cancer (IARC) in January 1979 to evaluate the data on human and experimental animal carcinogenicity for 54 chemicals, groups of chemicals, and industrial processes.
+Monographs for these chemicals were published in Vols.
+1 to 20 of the IARC Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Humans.
+Based on evidence from human studies, 18 of the 54 chemicals or industrial processes are human carcinogens.
+A further 18 chemicals are probably carcinogenic for humans, although the data were considered not adequate to establish a causal association.
+To reflect differing degrees of evidence of carcinogenicity within this group, the chemicals were further subdivided, with 6 chemicals exhibiting a high degree of evidence and 12 chemicals exhibiting a lower degree.
+Data on the remaining 18 chemicals were considered insufficient to allow any evaluation of carcinogenicity.
+The report summarizes the background, purpose, and overall conclusions of the Working Group.
+The evidence supporting the evaluations is given in the "Appendix."
+We examined the effects of digitalis therapy on postinfarction mortality throughout a 24-month to 48-month follow-up in 867 patients who survived an acute myocardial infarction.
+During follow-up, 145 patients died (16.7% mortality).
+At the time of hospital discharge, 31% of the patients were taking digitalis.
+The digitalis-treated patients were older, had more medical-cardiac risk factors, and had a higher mortality rate throughout the follow-up than the nondigitalis-treated patients.
+Statistical techniques were used to adjust for clinical imbalances between the digitalis-treated patients and nondigitalis-treated patients.
+The survival analysis (n = 728 patients) utilized the Cox regression model, and the digitalis-associated mortality risk was identified only after all significant covariates were allowed, so that mortality could be predicted as accurately as possible.
+Digitalis therapy was associated with a significantly increased postinfarction mortality risk after adjustment for the predictor covariates (relative risk 2.3, 95% confidence interval 1.4-3.7, p less than 0.001).
+The findings from this large multicenter study suggest that it would be prudent to exercise caution in the use of digitalis in postinfarction patients.
+Congenital lipoid adrenal hyperplasia results in severe impairment of steroid biosynthesis in the adrenal glands and gonads that is manifested both in utero and postnatally.
+We recently found mutations in the gene for the steroidogenic acute regulatory protein in four patients with this syndrome, but it was not clear whether all patients have such mutations or why there is substantial clinical variation in these patients.
+We directly sequenced the gene for steroidogenic acute regulatory protein in 15 patients with congenital lipoid adrenal hyperplasia from 10 countries.
+Identified mutations were confirmed and recreated in expression vectors, transfected into cultured cells, and assayed for the presence and activity of steroidogenic acute regulatory protein.
+Fifteen different mutations in the gene for steroidogenic acute regulatory protein were found in 14 patients; the mutation Gln258Stop was found in 80 percent of affected alleles from Japanese and Korean patients, and the mutation Arg182Leu was found in 78 percent of affected alleles from Palestinian patients.
+We developed diagnostic tests for these and eight other mutations.
+Thirteen of the 15 mutations were in exons 5, 6, or 7, and all rendered the steroidogenic acute regulatory protein inactive in functional assays.
+Some mutants with amino acid replacements were capable of normal mitochondrial processing, indicating that the activity of steroidogenic acute regulatory protein is not associated with its translocation into mitochondria.
+Steroidogenic cells lacking the protein retained low levels of steroidogenesis.
+This explains the secretion of some steroid hormones by the ovaries after puberty before affected cells accumulate large amounts of cholesterol esters.
+The congenital lipoid adrenal hyperplasia phenotype is the result of two separate events, an initial genetic loss of steroidogenesis that is dependent on steroidogenic acute regulatory protein and a subsequent loss of steroidogenesis that is independent of the protein due to cellular damage from accumulated cholesterol esters.
+Fanconi anaemia (FA) is an autosomal recessive disorder associated with progressive bone-marrow failure, a variety of congenital abnormalities, and predisposition to acute myeloid leukaemia.
+Cells from FA patients show increased sensitivity to bifunctional DNA crosslinking agents such as diepoxybutane and mitomycin C, with characteristic chromosome breakage.
+FA is genetically heterogeneous, at least five different complementation groups (FA-A to FA-E) having been described.
+The gene for group C (FAC) was cloned by functional complementation and mapped to chromosome 9q22.3 (refs 3, 5), but the genes for the other complementation groups have not yet been identified.
+The group A gene (FAA) has recently been mapped to chromosome 16q24.3 by linkage analysis, and accounts for 60-65% of FA cases.
+We narrowed the candidate region by linkage and allelic association analysis, and have isolated a gene that is mutated in FA-A patients.
+The gene encodes a protein of 1,455 amino acids that has no significant homology to any other known proteins, and may therefore represent a new class of genes associated with the prevention or repair of DNA damage.
+There is concern about possible association between PUVA treatment and an increased risk of noncutaneous cancer.
+An alteration in the risk of cancer among persons with psoriasis has also been postulated.
+To test this hypothesis, for nearly two decades we have prospectively followed 1380 patients who first began PUVA treatment for psoriasis in 1975-1976.
+We compare the risk of noncutaneous cancer in our cohort with that expected based on general population incidence rates.
+The overall risk of noncutaneous cancer was nearly identical to that expected in general population.
+For three separate sites, we noted significant increases: thyroid cancer (RR = 3.57, 95% CI = 1.16-8.34), breast cancer (RR = 1.81, 95% CI = 1.19-2.64), and central nervous system neoplasms (RR = 2.80, 95% CI = 1.13-5.57).
+Since 1987, however, the risk of central nervous system neoplasms has not been elevated (RR = 0.00, 95% CI = 0.00-3.35) and the relative risk of breast cancer was lower than in the prior decade and not statistically significant.
+There was no association between higher levels of exposure to PUVA and the risk of any of these cancers.
+We did not detect any significant increase in the risk of lymphoma or leukemia.
+Our study does not support the hypothesis that long-term PUVA treatment increases the risk of noncutaneous cancer.
+Genetic linkage studies place a gene causing early onset familial Alzheimer's disease (FAD) on chromosome 14q24.3 (refs 1-4).
+Five mutations within the S182 (Presenilin 1: PS-1) gene, which maps to this region, have recently been reported in several early onset FAD kindreds.
+We have localized the PS-1 gene to a 75 kb region and present the structure of this gene, evidence for alternative splicing and describe six novel mutations in early onset FAD pedigrees all of which alter residues conserved in the STM2 (Presenilin 2: PS-2) gene.
+The European Society for Paediatric Gasteroenterology, Hepatology and Nutrition (ESPGHAN) issued two sets of recommendations for the treatment of infants with acute gastroenteritis (1992, 1997).
+The purpose of this multicentre study performed in 29 European countries was to determine how closely current treatment compares with the ESPGHAN recommendations.
+The outline of the study was based on a questionnaire that addressed the management of a 6-month-old infant with acute gastroenteritis complicated by mild to moderate dehydration.
+National coordinators circulated the questionnaire to randomly selected primary care physicians and to hospital-based paediatricians.
+A total of 2997 questionnaires were returned, of which 1768 were from Western Europe (WE) and 1229 from Central and Eastern Europe (CEE).
+Eighty-four percent of responding physicians said they would follow the ESPGHAN recommendation to use oral rehydration solution (ORS) for rehydration, with 66% using an ORS containing 60 mmol/l sodium ORS.
+Only 16% (WE 15%, CEE 19%) would follow the guidelines and use rapid oral rehydration over 3 to 4 hours.
+Forty-five percent would rehydrate infants in a 3- to 6-hour period (WE 35%, CEE 60%), and 17% (WE 23%, CEE 9%) would extend the rehydration period to 12 to 24 hours.
+ESPGHAN recommendation of rapid reintroduction of normal feeding after 3 to 4 hours of oral rehydration would be followed by only 21% of responding physicians, and only 43% (WE 46%, CEE 38%) would start feeding with full-strength formula.
+However, the guideline about continuation of breast-feeding is widely followed (total 77%; WE 78%, CEE 75%).
+Thirty-six percent (WE 45%, CEE 23%) use a lactose-containing formula after successful oral rehydration.
+Contrary to the ESPGHAN guideline 35% (WE 30%, CEE 42%) would use a lactose-free formula and 19% (WE 12%, CEE 28%) a lactose and cow's milk protein-free formula.
+Only 37% (WE 30%, CEE 46%) of responding physicians would follow the recommendation to use ORS to replace ongoing losses from watery diarrhoea.
+The results of the survey suggest that with the exception of recommending ORS for rehydration and continuation of breast-feeding during diarrhoea, a minority of responding European physicians follow the ESPGHAN guidelines for optimal management of children with acute gastroenteritis.
+Destruction by oxidation, or oxidative killing, is the most important defense against surgical pathogens and depends on the partial pressure of oxygen in contaminated tissue.
+An easy method of improving oxygen tension in adequately perfused tissue is to increase the concentration of inspired oxygen.
+We therefore tested the hypothesis that the supplemental administration of oxygen during the perioperative period decreases the incidence of wound infection.
+We randomly assigned 500 patients undergoing colorectal resection to receive 30 percent or 80 percent inspired oxygen during the operation and for two hours afterward.
+Anesthetic treatment was standardized, and all patients received prophylactic antibiotic therapy.
+With use of a double-blind protocol, wounds were evaluated daily until the patient was discharged and then at a clinic visit two weeks after surgery.
+We considered wounds with culture-positive pus to be infected.
+The timing of suture removal and the date of discharge were determined by the surgeon, who did not know the patient's treatment-group assignment.
+Arterial oxygen saturation was normal in both groups; however, the arterial and subcutaneous partial pressure of oxygen was significantly higher in the patients given 80 percent oxygen than in those given 30 percent oxygen.
+Among the 250 patients who received 80 percent oxygen, 13 (5.2 percent; 95 percent confidence interval, 2.4 to 8.0 percent) had surgical-wound infections, as compared with 28 of the 250 patients given 30 percent oxygen (11.2 percent; 95 percent confidence interval, 7.3 to 15.1 percent; P=0.01).
+The absolute difference between groups was 6.0 percent (95 percent confidence interval, 1.2 to 10.8 percent).
+The duration of hospitalization was similar in the two groups.
+The perioperative administration of supplemental oxygen is a practical method of reducing the incidence of surgical-wound infections.
+Previous studies of lung function in relation to smoking cessation have not adequately quantified the long-term benefit of smoking cessation, nor established the predictive value of characteristics such as airway hyperresponsiveness.
+In a prospective randomized clinical trial at 10 North American medical centers, we studied 3, 926 smokers with mild-to-moderate airway obstruction (3,818 with analyzable results; mean age at entry, 48.5 yr; 36% women) randomized to one of two smoking cessation groups or to a nonintervention group.
+We measured lung function annually for 5 yr.
+Participants who stopped smoking experienced an improvement in FEV(1) in the year after quitting (an average of 47 ml or 2%).
+The subsequent rate of decline in FEV(1) among sustained quitters was half the rate among continuing smokers, 31 +/- 48 versus 62 +/- 55 ml (mean +/- SD), comparable to that of never-smokers.
+Predictors of change in lung function included responsiveness to beta-agonist, baseline FEV(1), methacholine reactivity, age, sex, race, and baseline smoking rate.
+Respiratory symptoms were not predictive of changes in lung function.
+Smokers with airflow obstruction benefit from quitting despite previous heavy smoking, advanced age, poor baseline lung function, or airway hyperresponsiveness.
+Primary pulmonary hypertension (PPH), characterized by obstruction of pre-capillary pulmonary arteries, leads to sustained elevation of pulmonary arterial pressure (mean >25 mm Hg at rest or >30 mm Hg during exercise).
+The aetiology is unknown, but the histological features reveal proliferation of endothelial and smooth muscle cells with vascular remodelling (Fig.
+1).
+More than one affected relative has been identified in at least 6% of cases (familial PPH, MIM 178600).
+Familial PPH (FPPH) segregates as an autosomal dominant disorder with reduced penetrance and has been mapped to a locus designated PPH1 on 2q33, with no evidence of heterogeneity.
+We now show that FPPH is caused by mutations in BMPR2, encoding a TGF-beta type II receptor (BMPR-II).
+Members of the TGF-beta superfamily transduce signals by binding to heteromeric complexes of type I and II receptors, which activates serine/threonine kinases, leading to transcriptional regulation by phosphorylated Smads.
+By comparison with in vitro studies, identified defects of BMPR-II in FPPH are predicted to disrupt ligand binding, kinase activity and heteromeric dimer formation.
+Our data demonstrate the molecular basis of FPPH and underscore the importance in vivo of the TGF-beta signalling pathway in the maintenance of blood vessel integrity.
+Orthostatic intolerance is a common problem for inbound space travelers.
+There is usually tachycardia on standing but blood pressure may be normal, low or, rarely, elevated.
+This condition is analogous to the orthostatic intolerance that occurs on Earth in individuals with orthostatic tachycardia, palpitations, mitral valve prolapse, and light-headedness.
+Our studies during the Neurolab mission indicated that sympathetic nerve traffic is raised in microgravity and that plasma norepinephrine is higher than baseline supine levels but lower than baseline upright levels.
+A subgroup of patients with familial orthostatic intolerance differ from inbound space travelers in that they have an alanine-to-to-proline mutation at amino acid position 457 in their norepinephrine transporter gene.
+This leads to poor clearance of norepinephrine from synapses, with consequent raised heart rate.
+Clinical features of these syndromes are presented.
+Astronauts return to Earth with reduced red cell masses and hypovolaemia.
+Not surprisingly, when they stand, their heart rates may speed inordinately, their blood pressures may fall, and some may experience frank syncope.
+We studied autonomic function in six male astronauts (average +/- SEM age: 40 +/- 2 years) before, during, and after the 16-day Neurolab space shuttle mission.
+We recorded electrocardiograms, finger photoplethysmographic arterial pressures, respiration, peroneal nerve muscle sympathetic activity, plasma noradrenaline and noradrenaline kinetics, and cardiac output, and we calculated stroke volume and total peripheral resistance.
+We perturbed autonomic function before and during spaceflight with graded Valsalva manoeuvres and lower body suction, and before and after the mission with passive upright tilt.
+In-flight baseline sympathetic nerve activity was increased above pre-flight levels (by 10-33%) in three subjects, in whom noradrenaline spillover and clearance also were increased.
+Valsalva straining provoked greater reductions of arterial pressure, and proportionally greater sympathetic responses in space than on Earth.
+Lower body suction elicited greater increases of sympathetic nerve activity, plasma noradrenaline, and noradrenaline spillover in space than on Earth.
+After the Neurolab mission, left ventricular stroke volume was lower and heart rate was higher during tilt, than before spaceflight.
+No astronaut experienced orthostatic hypotension or pre-syncope during 10 min of post-flight tilting.
+We conclude that baseline sympathetic outflow, however measured, is higher in space than on earth, and that augmented sympathetic nerve responses to Valsalva straining, lower body suction, and post-flight upright tilt represent normal adjustments to greater haemodynamic stresses associated with hypovolaemia.
+The aim of this study was to validate the Knee Society Clinical Rating System (knee and function scores) and to compare its responsiveness with that of the Western Ontario and McMaster University Osteoarthritis Index (WOMAC) and the Medical Outcomes Study Short Form-36 (SF-36).
