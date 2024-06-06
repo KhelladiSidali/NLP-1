@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NLP Application</title>
+</head>
+<body>
+    <h1>NLP Application</h1>
+    <form id="text-form">
+        <textarea id="text" name="text" rows="5" cols="50" placeholder="Enter your text here..."></textarea><br>
+        <button type="submit">Process Text</button>
+    </form>
+    <div id="results"></div>
+
+    <script>
+        document.getElementById('text-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            var formData = new FormData(this);
+            fetch('/process_text', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log(data);
+                var resultsDiv = document.getElementById('results');
+                resultsDiv.innerHTML = '';
+                resultsDiv.innerHTML += '<h2>Part-of-Speech Tags:</h2>';
+                data.pos_tags.forEach(sentence => {
+                    resultsDiv.innerHTML += '<p>' + JSON.stringify(sentence) + '</p>';
+                });
+                resultsDiv.innerHTML += '<h2>Named Entity Recognition:</h2>';
+                data.ner_tags.forEach(sentence => {
+                    resultsDiv.innerHTML += '<p>' + JSON.stringify(sentence) + '</p>';
+                });
+                resultsDiv.innerHTML += '<h2>Topics:</h2>';
+                resultsDiv.innerHTML += '<p>' + JSON.stringify(data.topics) + '</p>';
+                resultsDiv.innerHTML += '<h2>Translation:</h2>';
+                resultsDiv.innerHTML += '<p>' + data.translation + '</p>';
+            })
+            .catch(error => console.error('Error:', error));
+        });
+    </script>
+</body>
+</html>
